@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "scraped_at": "2026-09-05T23:00:02Z",
+  "scraped_at": "2026-09-06T23:00:02Z",
   "count": 313,
   "events": [
     {
@@ -184,7 +184,7 @@
       "reservation_url": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=59&bcIdx=410841",
       "source_url": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=59&bcIdx=410841",
       "source_name": "서초구 구정소식",
-      "summary": "행사안내 상세정보 보기 글제목 2026 가족 행복지원 프로젝트 「동心으로」 그림책테라피 부모집단 ＜책에心다＞ 담당부서 아동청년과 담당자이름 김은정 담당자연락처 02-2155-8988 등록일 2026.08.20 조회수 286 글내용 안녕하세요 . 서초…",
+      "summary": "행사안내 상세정보 보기 글제목 2026 가족 행복지원 프로젝트 「동心으로」 그림책테라피 부모집단 ＜책에心다＞ 담당부서 아동청년과 담당자이름 김은정 담당자연락처 02-2155-8988 등록일 2026.08.20 조회수 293 글내용 안녕하세요 . 서초…",
       "audience": "",
       "fee": "",
       "location": "",
@@ -192,34 +192,6 @@
       "first_come": false,
       "tags": [
         "신청"
-      ]
-    },
-    {
-      "id": "68ceeb9cd1c995b3",
-      "title": "AI디지털 튜터 양성과정 교육생 추가 모집",
-      "district": "강서구",
-      "district_id": "gangseo",
-      "institution": "강서구",
-      "category": "youth",
-      "category_label": "청소년",
-      "event_start": "2026-08-24",
-      "event_end": "2026-11-06",
-      "reservation_start": "2026-08-05",
-      "reservation_end": "2026-08-20",
-      "reservation_type": "신청",
-      "reservation_url": "https://www.gangseo.seoul.kr/gs040101/322693?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "source_url": "https://www.gangseo.seoul.kr/gs040101/322693?srchCtgry=&srchStdg=&fieldTy=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "source_name": "강서구 구정소식",
-      "summary": "AI디지털 튜터 양성과정 교육생을 아래와 같이 모집합니다 ○ 과정명 : AI디지털 튜터 양성과정 양성과정 ○ 모집기간 : 2026. 8. 5.(수) ~ 8. 20.(목 ) 18:00 ○ 교육기간 : 2026. 8. 24.( 월 ) ~ 11. 6.(금…",
-      "audience": "교육기관에 디지털 튜터(강사)로 취업을 희망하는 강서구민 20 명",
-      "fee": "무료(구비-주민참여예산 지원)",
-      "location": "강서여성인력개발센터 (마곡중앙8로7길57 마곡 아이파크 디어반 지식산업센터 B131호 )",
-      "published_at": "2026-08-06",
-      "first_come": false,
-      "tags": [
-        "신청",
-        "무료",
-        "온라인신청"
       ]
     },
     {
@@ -248,6 +220,32 @@
         "신청",
         "무료",
         "온라인신청"
+      ]
+    },
+    {
+      "id": "b4531db94d1fdb62",
+      "title": "성북구평생학습관 '2026 하반기 평생학습 프로그램' 수강생 추가 모집",
+      "district": "성북구",
+      "district_id": "seongbuk",
+      "institution": "성북구",
+      "category": "youth",
+      "category_label": "청소년",
+      "event_start": "2026-09-06",
+      "event_end": null,
+      "reservation_start": "2026-08-18",
+      "reservation_end": null,
+      "reservation_type": "선착순",
+      "reservation_url": "https://www.sb.go.kr/www/selectBbsNttView.do?key=6350&bbsNo=41&nttNo=9583894&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&startDate=&endDate=&pageIndex=1",
+      "source_url": "https://www.sb.go.kr/www/selectBbsNttView.do?key=6350&bbsNo=41&nttNo=9583894&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&startDate=&endDate=&pageIndex=1",
+      "source_name": "성북구 구정소식",
+      "summary": "구정소식_새소식 상세보기 - 제목, 주관부서, 등록일, 조회수, 전화번호, 첨부파일, 구분, 요약, 분야, 내용 정보 제공 성북구평생학습관 '2026 하반기 평생학습 프로그램' 수강생 추가 모집 작성일 : 2026-09-06 --> 작성일 : 202…",
+      "audience": "성북구민 및 관내 직장인 누구나",
+      "fee": "· 교재비 별도 )",
+      "location": "",
+      "published_at": "2026-09-06",
+      "first_come": true,
+      "tags": [
+        "선착순"
       ]
     },
     {
@@ -681,8 +679,8 @@
       ]
     },
     {
-      "id": "0b7e51a44bef71ee",
-      "title": "2026 안심장비지원사업(주거안전 취약계층 지원) 신청자 모집 새글",
+      "id": "6e0e8bd0ffba613f",
+      "title": "2026 안심장비지원사업(주거안전 취약계층 지원) 신청자 모집",
       "district": "금천구",
       "district_id": "geumcheon",
       "institution": "금천구",
@@ -696,7 +694,7 @@
       "reservation_url": "https://www.geumcheon.go.kr/portal/selectBbsNttView.do?key=293&id=&bbsNo=4&nttNo=270811&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode=&searchDeptCode=",
       "source_url": "https://www.geumcheon.go.kr/portal/selectBbsNttView.do?key=293&id=&bbsNo=4&nttNo=270811&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode=&searchDeptCode=",
       "source_name": "금천구 구정소식",
-      "summary": "2026 안심장비지원사업(주거안전 취약계층 지원) 신청자 모집 상세보기 - 제목,조회수,담당부서,연락처,작성일,내용,파일 정보 제공 제목 2026 안심장비지원사업(주거안전 취약계층 지원) 신청자 모집 조회수 133 담당부서 가족정책과 연락처 02-2…",
+      "summary": "2026 안심장비지원사업(주거안전 취약계층 지원) 신청자 모집 상세보기 - 제목,조회수,담당부서,연락처,작성일,내용,파일 정보 제공 제목 2026 안심장비지원사업(주거안전 취약계층 지원) 신청자 모집 조회수 154 담당부서 가족정책과 연락처 02-2…",
       "audience": "- 금천구 거주하는 자 중 아래 1~4번의 요건을 충족한 자 (34가구)",
       "fee": "에 관한 사항은 금천구청 및 금천구가족센터에서 책임지지 않음",
       "location": "",
@@ -1132,7 +1130,7 @@
       "audience": "자 선정 기준에 대한 재검토 및 이의 제기",
       "fee": "",
       "location": "",
-      "published_at": "2026-08-22",
+      "published_at": "2026-09-06",
       "first_come": false,
       "tags": [
         "신청",
@@ -1484,7 +1482,7 @@
       "reservation_url": "https://www.dongjak.go.kr/portal/bbs/B0000771/view.do?nttId=10756537&pageUnitTemp=8&menuNo=200109&pageUnit=9&pageIndex=1",
       "source_url": "https://www.dongjak.go.kr/portal/bbs/B0000771/view.do?nttId=10756537&pageUnitTemp=8&menuNo=200109&pageUnit=9&pageIndex=1",
       "source_name": "동작구 소식지",
-      "summary": "175 2026년 8월호 동작구소식 PDF 홍보담당관 2026-08-03 175",
+      "summary": "175 2026년 8월호 동작구소식 PDF 홍보담당관 2026-08-03 176",
       "audience": "",
       "fee": "",
       "location": "",
@@ -1561,7 +1559,7 @@
       "reservation_url": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=59&bcIdx=410606",
       "source_url": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=59&bcIdx=410606",
       "source_name": "서초구 구정소식",
-      "summary": "행사안내 상세정보 보기 글제목 2026년 8-9월 서초구 양성평등기금 참여 프로그램 안내 담당부서 여성보육과 담당자이름 김나연 담당자연락처 02-2155-6712 등록일 2026.08.06 조회수 453 글내용 2026 서초구 양성평등기금 참여 프로…",
+      "summary": "행사안내 상세정보 보기 글제목 2026년 8-9월 서초구 양성평등기금 참여 프로그램 안내 담당부서 여성보육과 담당자이름 김나연 담당자연락처 02-2155-6712 등록일 2026.08.06 조회수 455 글내용 2026 서초구 양성평등기금 참여 프로…",
       "audience": "서초구민 누구나 (혼인을 앞둔 분 우선 선발)",
       "fee": "무료 (재료비 2만원)",
       "location": "우리문화진흥원 강의실 (양재역 1번 출구)",
@@ -1852,7 +1850,7 @@
       "reservation_url": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=59&bcIdx=410861",
       "source_url": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=59&bcIdx=410861",
       "source_name": "서초구 구정소식",
-      "summary": "행사안내 상세정보 보기 글제목 제12회 잠원나루 축제 개최 안내 담당부서 잠원동 담당자이름 정재원 담당자연락처 02-2155-7543 등록일 2026.08.21 조회수 1047 글내용 2026년 9월 12일 토요일 11시! 잠원체육공원에서! 잠원나루…",
+      "summary": "행사안내 상세정보 보기 글제목 제12회 잠원나루 축제 개최 안내 담당부서 잠원동 담당자이름 정재원 담당자연락처 02-2155-7543 등록일 2026.08.21 조회수 1115 글내용 2026년 9월 12일 토요일 11시! 잠원체육공원에서! 잠원나루…",
       "audience": "",
       "fee": "",
       "location": "",
@@ -1860,33 +1858,6 @@
       "first_come": true,
       "tags": [
         "선착순"
-      ]
-    },
-    {
-      "id": "61704a6cce3e7172",
-      "title": "2026년 4차 헬스교실 회원모집",
-      "district": "마포구",
-      "district_id": "mapo",
-      "institution": "마포구",
-      "category": "family",
-      "category_label": "가족",
-      "event_start": "2026-08-24",
-      "event_end": null,
-      "reservation_start": null,
-      "reservation_end": null,
-      "reservation_type": "신청",
-      "reservation_url": "https://www.mapo.go.kr/site/main/board/edulecture/277316?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&listType=list&bcId=edulecture&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
-      "source_url": "https://www.mapo.go.kr/site/main/board/edulecture/277316?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&listType=list&bcId=edulecture&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
-      "source_name": "마포구 구정소식",
-      "summary": "교육강좌 | 마포소식 | 마포구 소개 | 2026년 4차 헬스교실 회원모집 | 교육강좌안내 자바스크립트를 지원하지 않는 브라우저에서는 일부 기능을 사용하실 수 없습니다. 대메뉴 바로가기 본문 바로가기 이 누리집은 대한민국 공식 전자정부 누리집입니다.…",
-      "audience": "",
-      "fee": "",
-      "location": "지정현황 민방공 경보 발령시 국민행동요령 민방공 대피시설현황 안전신고 서울안전앱 일자리/경제",
-      "published_at": "2026-08-24",
-      "first_come": false,
-      "tags": [
-        "신청",
-        "온라인신청"
       ]
     },
     {
@@ -2145,7 +2116,7 @@
       "reservation_url": "https://www.nowon.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1001&q_bbscttSn=20260901163525288",
       "source_url": "https://www.nowon.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1001&q_bbscttSn=20260901163525288",
       "source_name": "노원구 구정소식",
-      "summary": "2026 노원구 청년마켓(10월) 셀러 모집 안내 게시물 상세 정보를 제공하는 표이며 부서/팀, 전화번호, 등록일, 조회수, 첨부파일 정보 제공 부서/팀 청년정책과 청년일자리팀 전화번호 02-2116-7116 등록일 2026-09-01 조회수 489…",
+      "summary": "2026 노원구 청년마켓(10월) 셀러 모집 안내 게시물 상세 정보를 제공하는 표이며 부서/팀, 전화번호, 등록일, 조회수, 첨부파일 정보 제공 부서/팀 청년정책과 청년일자리팀 전화번호 02-2116-7116 등록일 2026-09-01 조회수 535…",
       "audience": "",
       "fee": "",
       "location": "",
@@ -2224,7 +2195,7 @@
       "reservation_url": "https://www.dongjak.go.kr/portal/bbs/B0000771/view.do?nttId=10756929&pageUnitTemp=8&menuNo=200109&pageUnit=9&pageIndex=1",
       "source_url": "https://www.dongjak.go.kr/portal/bbs/B0000771/view.do?nttId=10756929&pageUnitTemp=8&menuNo=200109&pageUnit=9&pageIndex=1",
       "source_name": "동작구 소식지",
-      "summary": "176 2026년 9월호 동작구소식 PDF 홍보담당관 2026-09-01 69",
+      "summary": "176 2026년 9월호 동작구소식 PDF 홍보담당관 2026-09-01 72",
       "audience": "",
       "fee": "",
       "location": "",
@@ -2356,7 +2327,7 @@
       "reservation_url": "https://www.nowon.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1001&q_bbscttSn=20260902105406343",
       "source_url": "https://www.nowon.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1001&q_bbscttSn=20260902105406343",
       "source_name": "노원구 구정소식",
-      "summary": "2026년 추석맞이 귀성차량 무상 안전점검 행사 안내 게시물 상세 정보를 제공하는 표이며 부서/팀, 전화번호, 등록일, 조회수, 첨부파일 정보 제공 부서/팀 교통행정과 자동차관리팀 전화번호 02-2116-4051 등록일 2026-09-02 조회수 3…",
+      "summary": "2026년 추석맞이 귀성차량 무상 안전점검 행사 안내 게시물 상세 정보를 제공하는 표이며 부서/팀, 전화번호, 등록일, 조회수, 첨부파일 정보 제공 부서/팀 교통행정과 자동차관리팀 전화번호 02-2116-4051 등록일 2026-09-02 조회수 4…",
       "audience": "",
       "fee": "",
       "location": "",
@@ -2444,8 +2415,8 @@
       ]
     },
     {
-      "id": "ddfb40c2b52be05b",
-      "title": "2026년 4분기 독산1동 자치회관 프로그램 수강생 모집 공고 새글",
+      "id": "572aed1ec005e526",
+      "title": "2026년 4분기 독산1동 자치회관 프로그램 수강생 모집 공고",
       "district": "금천구",
       "district_id": "geumcheon",
       "institution": "금천구",
@@ -2459,7 +2430,7 @@
       "reservation_url": "https://www.geumcheon.go.kr/portal/selectBbsNttView.do?key=293&id=&bbsNo=4&nttNo=270813&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode=&searchDeptCode=",
       "source_url": "https://www.geumcheon.go.kr/portal/selectBbsNttView.do?key=293&id=&bbsNo=4&nttNo=270813&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode=&searchDeptCode=",
       "source_name": "금천구 구정소식",
-      "summary": "2026년 4분기 독산1동 자치회관 프로그램 수강생 모집 공고 상세보기 - 제목,조회수,담당부서,연락처,작성일,내용,파일 정보 제공 제목 2026년 4분기 독산1동 자치회관 프로그램 수강생 모집 공고 조회수 118 담당부서 독산1동 연락처 02-21…",
+      "summary": "2026년 4분기 독산1동 자치회관 프로그램 수강생 모집 공고 상세보기 - 제목,조회수,담당부서,연락처,작성일,내용,파일 정보 제공 제목 2026년 4분기 독산1동 자치회관 프로그램 수강생 모집 공고 조회수 143 담당부서 독산1동 연락처 02-21…",
       "audience": "",
       "fee": "",
       "location": "",
@@ -2485,7 +2456,7 @@
       "reservation_url": "https://www.gangseo.seoul.kr/gs040101/323494?srchCtgry=&srchStdg=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "source_url": "https://www.gangseo.seoul.kr/gs040101/323494?srchCtgry=&srchStdg=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "source_name": "강서구 구정소식",
-      "summary": "11478 2026년 에너지바우처 신청 안내(~26.12.31.) 기후환경과 2026-09-03 146",
+      "summary": "11479 2026년 에너지바우처 신청 안내(~26.12.31.) 기후환경과 2026-09-03 172",
       "audience": "",
       "fee": "",
       "location": "",
@@ -2520,8 +2491,8 @@
       "tags": []
     },
     {
-      "id": "94d4df35f3168b86",
-      "title": "서울형 입원 생활비 지원 신청안내 NEW",
+      "id": "ed38a4ef3435874b",
+      "title": "서울형 입원 생활비 지원 신청안내",
       "district": "성동구",
       "district_id": "seongdong",
       "institution": "성동구",
@@ -2535,7 +2506,7 @@
       "reservation_url": "https://www.sd.go.kr/main/selectBbsNttView.do?bbsNo=183&nttNo=361063&&pageUnit=10&key=1472&nttShowPd=36&pageIndex=1",
       "source_url": "https://www.sd.go.kr/main/selectBbsNttView.do?bbsNo=183&nttNo=361063&&pageUnit=10&key=1472&nttShowPd=36&pageIndex=1",
       "source_name": "성동구 구정소식",
-      "summary": "조회수 100 작성일 2026.09.03 새소식 상세보기 - 제목, 담당부서, 연락처, 홈페이지, 첨부파일, 내용의 정보 제공 서울형 입원 생활비 지원 신청안내 담당부서 보건의료과 문의처 02-2286-7014 홈페이지 https://www.sd.g…",
+      "summary": "조회수 116 작성일 2026.09.03 새소식 상세보기 - 제목, 담당부서, 연락처, 홈페이지, 첨부파일, 내용의 정보 제공 서울형 입원 생활비 지원 신청안내 담당부서 보건의료과 문의처 02-2286-7014 홈페이지 https://www.sd.g…",
       "audience": "",
       "fee": "",
       "location": "",
@@ -2573,8 +2544,8 @@
       ]
     },
     {
-      "id": "53099950406b7707",
-      "title": "제19회 치매극복의 날 기념행사 「함께 기억하는 오늘」 개최 NEW",
+      "id": "87218a5e187df669",
+      "title": "제19회 치매극복의 날 기념행사 「함께 기억하는 오늘」 개최",
       "district": "성동구",
       "district_id": "seongdong",
       "institution": "성동구",
@@ -2588,7 +2559,7 @@
       "reservation_url": "https://www.sd.go.kr/main/selectBbsNttView.do?bbsNo=183&nttNo=361049&&pageUnit=10&key=1472&nttShowPd=36&pageIndex=1",
       "source_url": "https://www.sd.go.kr/main/selectBbsNttView.do?bbsNo=183&nttNo=361049&&pageUnit=10&key=1472&nttShowPd=36&pageIndex=1",
       "source_name": "성동구 구정소식",
-      "summary": "조회수 122 작성일 2026.09.03 새소식 상세보기 - 제목, 담당부서, 연락처, 첨부파일, 내용의 정보 제공 제19회 치매극복의 날 기념행사 「함께 기억하는 오늘」 개최 담당부서 돌봄건강과 문의처 02-499-8071 첨부파일 미리보기 jpg…",
+      "summary": "조회수 139 작성일 2026.09.03 새소식 상세보기 - 제목, 담당부서, 연락처, 첨부파일, 내용의 정보 제공 제19회 치매극복의 날 기념행사 「함께 기억하는 오늘」 개최 담당부서 돌봄건강과 문의처 02-499-8071 첨부파일 미리보기 jpg…",
       "audience": "",
       "fee": "",
       "location": "",
@@ -2615,7 +2586,7 @@
       "reservation_url": "https://www.geumcheon.go.kr/portal/selectBbsNttView.do?key=293&id=&bbsNo=4&nttNo=270824&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode=&searchDeptCode=",
       "source_url": "https://www.geumcheon.go.kr/portal/selectBbsNttView.do?key=293&id=&bbsNo=4&nttNo=270824&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode=&searchDeptCode=",
       "source_name": "금천구 구정소식",
-      "summary": "2026년 상반기 독산1동 자치회관 프로그램 만족도 조사 결과 상세보기 - 제목,조회수,담당부서,연락처,작성일,내용,파일 정보 제공 제목 2026년 상반기 독산1동 자치회관 프로그램 만족도 조사 결과 조회수 56 담당부서 독산1동 연락처 02-210…",
+      "summary": "2026년 상반기 독산1동 자치회관 프로그램 만족도 조사 결과 상세보기 - 제목,조회수,담당부서,연락처,작성일,내용,파일 정보 제공 제목 2026년 상반기 독산1동 자치회관 프로그램 만족도 조사 결과 조회수 96 담당부서 독산1동 연락처 02-210…",
       "audience": "",
       "fee": "",
       "location": "",
@@ -2716,7 +2687,7 @@
       "reservation_url": "https://www.sd.go.kr/main/selectBbsNttView.do?bbsNo=183&nttNo=361106&&pageUnit=10&key=1472&nttShowPd=36&pageIndex=1",
       "source_url": "https://www.sd.go.kr/main/selectBbsNttView.do?bbsNo=183&nttNo=361106&&pageUnit=10&key=1472&nttShowPd=36&pageIndex=1",
       "source_name": "성동구 구정소식",
-      "summary": "조회수 67 작성일 2026.09.04 새소식 상세보기 - 제목, 담당부서, 연락처, 첨부파일, 내용의 정보 제공 성동발달장애인평생교육센터 2026년 단과반 학령기 발달장애인을 위한 수영교실 [추가모집] 담당부서 장애인복지과 문의처 02-6952-7…",
+      "summary": "조회수 85 작성일 2026.09.04 새소식 상세보기 - 제목, 담당부서, 연락처, 첨부파일, 내용의 정보 제공 성동발달장애인평생교육센터 2026년 단과반 학령기 발달장애인을 위한 수영교실 [추가모집] 담당부서 장애인복지과 문의처 02-6952-7…",
       "audience": "",
       "fee": "",
       "location": "",
@@ -2750,6 +2721,33 @@
       "first_come": false,
       "tags": [
         "신청"
+      ]
+    },
+    {
+      "id": "ef27454e2d002d81",
+      "title": "마포50+행복아카데미] '바리스타 2급 자격증 과정' 참여자 모집",
+      "district": "마포구",
+      "district_id": "mapo",
+      "institution": "마포구",
+      "category": "family",
+      "category_label": "가족",
+      "event_start": "2026-09-06",
+      "event_end": null,
+      "reservation_start": null,
+      "reservation_end": null,
+      "reservation_type": "선착순",
+      "reservation_url": "https://www.mapo.go.kr/site/main/board/edulecture/277797?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&listType=list&bcId=edulecture&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+      "source_url": "https://www.mapo.go.kr/site/main/board/edulecture/277797?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&listType=list&bcId=edulecture&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+      "source_name": "마포구 구정소식",
+      "summary": "교육강좌 | 마포소식 | 마포구 소개 | [마포50+행복아카데미] '바리스타 2급 자격증 과정' 참여자 모집 | 교육강좌안내 자바스크립트를 지원하지 않는 브라우저에서는 일부 기능을 사용하실 수 없습니다. 대메뉴 바로가기 본문 바로가기 이 누리집은 대…",
+      "audience": "마포구 거주 만 50세 이상",
+      "fee": "220,000원 (검정료 50,000원 별도)",
+      "location": "지정현황 민방공 경보 발령시 국민행동요령 민방공 대피시설현황 안전신고 서울안전앱 일자리/경제",
+      "published_at": "2026-09-06",
+      "first_come": true,
+      "tags": [
+        "선착순",
+        "온라인신청"
       ]
     },
     {
@@ -4396,7 +4394,7 @@
       "tags": []
     },
     {
-      "id": "7eed007364e74457",
+      "id": "24724f7c57a36872",
       "title": "노원구 소식지 노원구소식지",
       "district": "노원구",
       "district_id": "nowon",
@@ -4408,8 +4406,8 @@
       "reservation_start": null,
       "reservation_end": null,
       "reservation_type": "",
-      "reservation_url": "https://ebook.nowon.kr/home/list.php?dummy=1788649294&code=1110",
-      "source_url": "https://ebook.nowon.kr/home/list.php?dummy=1788649294&code=1110",
+      "reservation_url": "https://ebook.nowon.kr/home/list.php?dummy=1788735708&code=1110",
+      "source_url": "https://ebook.nowon.kr/home/list.php?dummy=1788735708&code=1110",
       "source_name": "노원구 소식지",
       "summary": "정기간행물 > 노원구소식지",
       "audience": "",
@@ -7390,7 +7388,7 @@
       "audience": "",
       "fee": "",
       "location": "",
-      "published_at": "2026-06-22",
+      "published_at": "2026-06-01",
       "first_come": false,
       "tags": []
     },
@@ -7757,7 +7755,7 @@
       "tags": []
     },
     {
-      "id": "962c5a3cf86ff2b2",
+      "id": "62f1c7155f00eebd",
       "title": "중랑구 소식지 구정소식지",
       "district": "중랑구",
       "district_id": "jungnang",
@@ -7769,8 +7767,8 @@
       "reservation_start": null,
       "reservation_end": null,
       "reservation_type": "",
-      "reservation_url": "https://ecatalog.jungnang.go.kr/home/list.php?dummy=1788649259&code=1110",
-      "source_url": "https://ecatalog.jungnang.go.kr/home/list.php?dummy=1788649259&code=1110",
+      "reservation_url": "https://ecatalog.jungnang.go.kr/home/list.php?dummy=1788735670&code=1110",
+      "source_url": "https://ecatalog.jungnang.go.kr/home/list.php?dummy=1788735670&code=1110",
       "source_name": "중랑구 소식지",
       "summary": "정기간행물 구정소식지",
       "audience": "",
