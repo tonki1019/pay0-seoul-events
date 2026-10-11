@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "scraped_at": "2026-10-09T23:00:02Z",
-  "count": 317,
+  "scraped_at": "2026-10-11T23:00:02Z",
+  "count": 318,
   "events": [
     {
       "id": "c02e1244ebdb83ac",
@@ -169,34 +169,6 @@
       ]
     },
     {
-      "id": "b5b8d03cf8cc42ce",
-      "title": "교육의 달] 2026년 마포구 가족과 함께하는 K-컬처 AI 코딩교실 운영 안내",
-      "district": "마포구",
-      "district_id": "mapo",
-      "institution": "마포구",
-      "category": "family",
-      "category_label": "가족",
-      "event_start": "2026-09-03",
-      "event_end": null,
-      "reservation_start": "2026-09-16",
-      "reservation_end": "2026-09-23",
-      "reservation_type": "선착순",
-      "reservation_url": "https://www.mapo.go.kr/site/main/board/edulecture/277726?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&listType=list&bcId=edulecture&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
-      "source_url": "https://www.mapo.go.kr/site/main/board/edulecture/277726?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&listType=list&bcId=edulecture&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
-      "source_name": "마포구 구정소식",
-      "summary": "교육강좌 | 마포소식 | 마포구 소개 | [교육의 달] 2026년 마포구 가족과 함께하는 K-컬처 AI 코딩교실 운영 안내 | 교육강좌안내 자바스크립트를 지원하지 않는 브라우저에서는 일부 기능을 사용하실 수 없습니다. 대메뉴 바로가기 본문 바로가기…",
-      "audience": "으로",
-      "fee": "10,000원 별도)",
-      "location": "지정현황 민방공 경보 발령시 국민행동요령 민방공 대피시설현황 안전신고 서울안전앱 일자리/경제",
-      "published_at": "2026-09-03",
-      "first_come": true,
-      "tags": [
-        "선착순",
-        "무료",
-        "온라인신청"
-      ]
-    },
-    {
       "id": "e4c8c2b7cffca880",
       "title": "(연장 공고) 2026 동대문페스티벌 시민참여프로그램 내 차가 가게가 되는 날 참가팀 모집 공고",
       "district": "동대문구",
@@ -266,7 +238,7 @@
       "reservation_url": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=59&bcIdx=411514",
       "source_url": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=59&bcIdx=411514",
       "source_name": "서초구 구정소식",
-      "summary": "행사안내 상세정보 보기 글제목 ♥ 2026년 나누면 행복해지는 텃밭체험 “내곡동 고구마캐기” 행사 안내 ♥ 담당부서 내곡동 담당자이름 김동원 담당자연락처 02-2155-7952 등록일 2026.09.23 조회수 1037 글내용 ♥ 2025 년 나누면…",
+      "summary": "행사안내 상세정보 보기 글제목 ♥ 2026년 나누면 행복해지는 텃밭체험 “내곡동 고구마캐기” 행사 안내 ♥ 담당부서 내곡동 담당자이름 김동원 담당자연락처 02-2155-7952 등록일 2026.09.23 조회수 1082 글내용 ♥ 2025 년 나누면…",
       "audience": "",
       "fee": "10,000 원 ( 고구마 5kg)",
       "location": "",
@@ -492,8 +464,8 @@
       ]
     },
     {
-      "id": "dccb1f838861dad5",
-      "title": "금천구 출자·출연 기관 운영심의위원회 위원 모집 공고 새글",
+      "id": "821e83932793adc9",
+      "title": "금천구 출자·출연 기관 운영심의위원회 위원 모집 공고",
       "district": "금천구",
       "district_id": "geumcheon",
       "institution": "금천구",
@@ -507,7 +479,7 @@
       "reservation_url": "https://www.geumcheon.go.kr/portal/selectBbsNttView.do?key=293&id=&bbsNo=4&nttNo=271290&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode=&searchDeptCode=",
       "source_url": "https://www.geumcheon.go.kr/portal/selectBbsNttView.do?key=293&id=&bbsNo=4&nttNo=271290&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode=&searchDeptCode=",
       "source_name": "금천구 구정소식",
-      "summary": "금천구 출자·출연 기관 운영심의위원회 위원 모집 공고 상세보기 - 제목,조회수,담당부서,연락처,작성일,내용,파일 정보 제공 제목 금천구 출자·출연 기관 운영심의위원회 위원 모집 공고 조회수 99 담당부서 기획예산과 연락처 02-2627-1095 작성…",
+      "summary": "금천구 출자·출연 기관 운영심의위원회 위원 모집 공고 상세보기 - 제목,조회수,담당부서,연락처,작성일,내용,파일 정보 제공 제목 금천구 출자·출연 기관 운영심의위원회 위원 모집 공고 조회수 255 담당부서 기획예산과 연락처 02-2627-1095 작…",
       "audience": "",
       "fee": "",
       "location": "",
@@ -680,34 +652,6 @@
       ]
     },
     {
-      "id": "534b78aa90dc5075",
-      "title": "찾아가는 문화콘서트 특별회차 「이세돌 토크콘서트: 신의 한 수」 개최 안내 및 참가자 사전 모집",
-      "district": "강동구",
-      "district_id": "gangdong",
-      "institution": "강동구",
-      "category": "youth",
-      "category_label": "청소년",
-      "event_start": "2026-10-01",
-      "event_end": null,
-      "reservation_start": "2026-10-12",
-      "reservation_end": null,
-      "reservation_type": "선착순",
-      "reservation_url": "https://www.gangdong.go.kr/web/newportal/bbs/b_068/157755?cp=1&pageSize=20&sortOrder=BA_REGDATE&sortDirection=DESC&bcId=b_068&baCategory1=U0072&baNotice=false&baCommSelec=false&baOpenDay=true&baUse=true",
-      "source_url": "https://www.gangdong.go.kr/web/newportal/bbs/b_068/157755?cp=1&pageSize=20&sortOrder=BA_REGDATE&sortDirection=DESC&bcId=b_068&baCategory1=U0072&baNotice=false&baCommSelec=false&baOpenDay=true&baUse=true",
-      "source_name": "강동구 구정소식",
-      "summary": "강동소식 상세보기 - 게시글 주소 QR코드 ,작성부서 ,전화번호 ,작성일 ,조회수 ,첨부파일 ,제목 ,본문 게시글 주소 QR코드 게시글 주소 : https://www.gangdong.go.kr/web/newportal/bbs/b_068/157755…",
-      "audience": "",
-      "fee": "",
-      "location": "서울 암사동 유적 숲속무대",
-      "published_at": "2026-10-01",
-      "first_come": true,
-      "tags": [
-        "선착순",
-        "무료",
-        "온라인신청"
-      ]
-    },
-    {
       "id": "3f8e45409c687a46",
       "title": "열린행정>알림마당>행사/모집 - 창5동 제17회 창오가족한마당 축제 개최",
       "district": "도봉구",
@@ -735,8 +679,8 @@
       ]
     },
     {
-      "id": "8a98517fdd134602",
-      "title": "독산2동 따뜻한 공동체 만들기 마을 문화제, 1일장터 참여자 모집 새글",
+      "id": "af945094675d130a",
+      "title": "독산2동 따뜻한 공동체 만들기 마을 문화제, 1일장터 참여자 모집",
       "district": "금천구",
       "district_id": "geumcheon",
       "institution": "금천구",
@@ -750,7 +694,7 @@
       "reservation_url": "https://www.geumcheon.go.kr/portal/selectBbsNttView.do?key=293&id=&bbsNo=4&nttNo=271264&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode=&searchDeptCode=",
       "source_url": "https://www.geumcheon.go.kr/portal/selectBbsNttView.do?key=293&id=&bbsNo=4&nttNo=271264&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode=&searchDeptCode=",
       "source_name": "금천구 구정소식",
-      "summary": "독산2동 따뜻한 공동체 만들기 마을 문화제, 1일장터 참여자 모집 상세보기 - 제목,조회수,담당부서,연락처,작성일,내용,파일 정보 제공 제목 독산2동 따뜻한 공동체 만들기 마을 문화제, 1일장터 참여자 모집 조회수 150 담당부서 독산2동 연락처 0…",
+      "summary": "독산2동 따뜻한 공동체 만들기 마을 문화제, 1일장터 참여자 모집 상세보기 - 제목,조회수,담당부서,연락처,작성일,내용,파일 정보 제공 제목 독산2동 따뜻한 공동체 만들기 마을 문화제, 1일장터 참여자 모집 조회수 263 담당부서 독산2동 연락처 0…",
       "audience": "독산 2 동 주민 누구나",
       "fee": "",
       "location": "독산 2 동 주민센터 3 층 다목적실",
@@ -761,8 +705,8 @@
       ]
     },
     {
-      "id": "b17b2d24fe4a4e40",
-      "title": "2026 가을 (성인) 융합인재교육센터 <3D 프린팅교실 >프로그램 수강생 모집 NEW",
+      "id": "deb616f3b09a8297",
+      "title": "2026 가을 (성인) 융합인재교육센터 <3D 프린팅교실 >프로그램 수강생 모집",
       "district": "영등포구",
       "district_id": "yeongdeungpo",
       "institution": "영등포구",
@@ -841,8 +785,36 @@
       ]
     },
     {
-      "id": "45ad38e2e758109d",
-      "title": "초등 4~6학년] 「인공지능(AI) 부트캠프(11월)」 참여자 모집! NEW",
+      "id": "84a156b5563733a4",
+      "title": "마포구 아현보건지소] 11~12월 저당요리교실 참여자 모집",
+      "district": "마포구",
+      "district_id": "mapo",
+      "institution": "마포구",
+      "category": "family",
+      "category_label": "가족",
+      "event_start": "2026-11-03",
+      "event_end": "2026-12-08",
+      "reservation_start": "2026-10-12",
+      "reservation_end": null,
+      "reservation_type": "신청",
+      "reservation_url": "https://www.mapo.go.kr/site/main/board/edulecture/278449?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&listType=list&bcId=edulecture&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+      "source_url": "https://www.mapo.go.kr/site/main/board/edulecture/278449?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&listType=list&bcId=edulecture&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+      "source_name": "마포구 구정소식",
+      "summary": "교육강좌 | 마포소식 | 마포구 소개 | [마포구 아현보건지소] 11~12월 저당요리교실 참여자 모집 | 교육강좌안내 자바스크립트를 지원하지 않는 브라우저에서는 일부 기능을 사용하실 수 없습니다. 대메뉴 바로가기 본문 바로가기 이 누리집은 대한민국…",
+      "audience": "마포구민 16명(온라인 8명, 오프라인 8명 접수 진행)",
+      "fee": "별도- 108,000원(총 6회))",
+      "location": "지정현황 민방공 경보 발령시 국민행동요령 민방공 대피시설현황 안전신고 서울안전앱 일자리/경제",
+      "published_at": "2026-10-07",
+      "first_come": false,
+      "tags": [
+        "신청",
+        "무료",
+        "온라인신청"
+      ]
+    },
+    {
+      "id": "709c02a5d22760c6",
+      "title": "초등 4~6학년] 「인공지능(AI) 부트캠프(11월)」 참여자 모집!",
       "district": "영등포구",
       "district_id": "yeongdeungpo",
       "institution": "영등포구",
@@ -922,8 +894,8 @@
       ]
     },
     {
-      "id": "de7a80ef6cdcf6b6",
-      "title": "영등포구 가족센터 2026년 제3차 영등포구 아이돌봄사 정기모집 NEW",
+      "id": "5b598f4fcdc2927c",
+      "title": "영등포구 가족센터 2026년 제3차 영등포구 아이돌봄사 정기모집",
       "district": "영등포구",
       "district_id": "yeongdeungpo",
       "institution": "영등포구",
@@ -1100,7 +1072,7 @@
       "reservation_url": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/List.do?cbIdx=239#view",
       "source_url": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/List.do?cbIdx=239#view",
       "source_name": "관악구 구정소식",
-      "summary": "게시판검색 전체 복지 문화/관광 도시/주택/부동산 경제/환경 안전/교통 세금/재정 행정정보 기타 건강 교육 청년 공원/여가/도시농업 --> ~ --> 조건선택 제목 담당부서 내용 검색어입력 검색 총 1,867 건 페이지: 1 /187 10 20 30…",
+      "summary": "게시판검색 전체 복지 문화/관광 도시/주택/부동산 경제/환경 안전/교통 세금/재정 행정정보 기타 건강 교육 청년 공원/여가/도시농업 --> ~ --> 조건선택 제목 담당부서 내용 검색어입력 검색 총 1,866 건 페이지: 1 /187 10 20 30…",
       "audience": "",
       "fee": "",
       "location": "",
@@ -1178,7 +1150,7 @@
       "reservation_url": "https://www.dongjak.go.kr/portal/bbs/B0000771/view.do?nttId=10737481&pageUnitTemp=8&menuNo=200109&pageUnit=9&pageIndex=1",
       "source_url": "https://www.dongjak.go.kr/portal/bbs/B0000771/view.do?nttId=10737481&pageUnitTemp=8&menuNo=200109&pageUnit=9&pageIndex=1",
       "source_name": "동작구 소식지",
-      "summary": "170 2026년 3월호 동작구소식 PDF 홍보담당관 2026-03-03 613",
+      "summary": "170 2026년 3월호 동작구소식 PDF 홍보담당관 2026-03-03 614",
       "audience": "",
       "fee": "",
       "location": "",
@@ -1202,7 +1174,7 @@
       "reservation_url": "https://www.dongjak.go.kr/portal/bbs/B0000771/view.do?nttId=10748024&pageUnitTemp=8&menuNo=200109&pageUnit=9&pageIndex=1",
       "source_url": "https://www.dongjak.go.kr/portal/bbs/B0000771/view.do?nttId=10748024&pageUnitTemp=8&menuNo=200109&pageUnit=9&pageIndex=1",
       "source_name": "동작구 소식지",
-      "summary": "171 2026년 4월호 동작구소식 PDF 홍보담당관 2026-04-01 471",
+      "summary": "171 2026년 4월호 동작구소식 PDF 홍보담당관 2026-04-01 474",
       "audience": "",
       "fee": "",
       "location": "",
@@ -1277,7 +1249,7 @@
       "reservation_url": "https://www.dongjak.go.kr/portal/bbs/B0000771/view.do?nttId=10752314&pageUnitTemp=8&menuNo=200109&pageUnit=9&pageIndex=1",
       "source_url": "https://www.dongjak.go.kr/portal/bbs/B0000771/view.do?nttId=10752314&pageUnitTemp=8&menuNo=200109&pageUnit=9&pageIndex=1",
       "source_name": "동작구 소식지",
-      "summary": "173 2026년 6월호 동작구소식 PDF 홍보담당관 2026-06-01 374",
+      "summary": "173 2026년 6월호 동작구소식 PDF 홍보담당관 2026-06-01 375",
       "audience": "",
       "fee": "",
       "location": "",
@@ -1325,7 +1297,7 @@
       "reservation_url": "https://www.dongjak.go.kr/portal/bbs/B0000771/view.do?nttId=10756537&pageUnitTemp=8&menuNo=200109&pageUnit=9&pageIndex=1",
       "source_url": "https://www.dongjak.go.kr/portal/bbs/B0000771/view.do?nttId=10756537&pageUnitTemp=8&menuNo=200109&pageUnit=9&pageIndex=1",
       "source_name": "동작구 소식지",
-      "summary": "175 2026년 8월호 동작구소식 PDF 홍보담당관 2026-08-03 224",
+      "summary": "175 2026년 8월호 동작구소식 PDF 홍보담당관 2026-08-03 225",
       "audience": "",
       "fee": "",
       "location": "",
@@ -1357,58 +1329,6 @@
       "first_come": false,
       "tags": [
         "신청"
-      ]
-    },
-    {
-      "id": "a1935f589b913e01",
-      "title": "넓은들미래교육센터",
-      "district": "양천구",
-      "district_id": "yangcheon",
-      "institution": "양천구",
-      "category": "family",
-      "category_label": "가족",
-      "event_start": "2026-08-18",
-      "event_end": null,
-      "reservation_start": null,
-      "reservation_end": null,
-      "reservation_type": "신청",
-      "reservation_url": "https://www.yangcheon.go.kr/fieldfuture/fieldfuture/main.do",
-      "source_url": "https://www.yangcheon.go.kr/fieldfuture/fieldfuture/main.do",
-      "source_name": "양천구 구정소식",
-      "summary": "본문바로가기 양천구청 열린구청장실 --> 보건소 문화재단 도서관 평생학습포털 스마트양천미래교육센터 넓은들미래교육센터 목동미래교육센터 양천교육지원센터 진로직업체험지원센터 공항소음대책종합지원센터 장애인권교육센터 생활안전체험교육관 건강힐링문화관 양천TV…",
-      "audience": "",
-      "fee": "",
-      "location": "",
-      "published_at": "2026-08-18",
-      "first_come": false,
-      "tags": [
-        "신청"
-      ]
-    },
-    {
-      "id": "afdd1b55128be9f4",
-      "title": "목동미래교육센터",
-      "district": "양천구",
-      "district_id": "yangcheon",
-      "institution": "양천구",
-      "category": "family",
-      "category_label": "가족",
-      "event_start": "2026-08-18",
-      "event_end": null,
-      "reservation_start": null,
-      "reservation_end": null,
-      "reservation_type": "선착순",
-      "reservation_url": "https://www.yangcheon.go.kr/mokdongfuture/mokdongfuture/main.do",
-      "source_url": "https://www.yangcheon.go.kr/mokdongfuture/mokdongfuture/main.do",
-      "source_name": "양천구 구정소식",
-      "summary": "본문바로가기 양천구청 열린구청장실 --> 보건소 문화재단 도서관 평생학습포털 스마트양천미래교육센터 넓은들미래교육센터 목동미래교육센터 양천교육지원센터 진로직업체험지원센터 공항소음대책종합지원센터 장애인권교육센터 생활안전체험교육관 건강힐링문화관 양천TV…",
-      "audience": "",
-      "fee": "",
-      "location": "",
-      "published_at": "2026-08-18",
-      "first_come": true,
-      "tags": [
-        "선착순"
       ]
     },
     {
@@ -1768,7 +1688,7 @@
       "reservation_url": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=59&bcIdx=411540",
       "source_url": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=59&bcIdx=411540",
       "source_name": "서초구 구정소식",
-      "summary": "행사안내 상세정보 보기 글제목 「AI 축제가 이렇게 재미있었어?」 2026 서초 AI 페스타 개최 안내 담당부서 스마트도시과 담당자이름 문성욱 담당자연락처 02-2155-8831 등록일 2026.09.28 조회수 498 글내용 날씨 좋은 가을 , 공…",
+      "summary": "행사안내 상세정보 보기 글제목 「AI 축제가 이렇게 재미있었어?」 2026 서초 AI 페스타 개최 안내 담당부서 스마트도시과 담당자이름 문성욱 담당자연락처 02-2155-8831 등록일 2026.09.28 조회수 534 글내용 날씨 좋은 가을 , 공…",
       "audience": "AI 에 관심 있는 누구나",
       "fee": "",
       "location": "서초문화예술공원",
@@ -1847,7 +1767,7 @@
       "reservation_url": "https://www.dongjak.go.kr/portal/bbs/B0000771/view.do?nttId=10757402&pageUnitTemp=8&menuNo=200109&pageUnit=9&pageIndex=1",
       "source_url": "https://www.dongjak.go.kr/portal/bbs/B0000771/view.do?nttId=10757402&pageUnitTemp=8&menuNo=200109&pageUnit=9&pageIndex=1",
       "source_name": "동작구 소식지",
-      "summary": "177 2026년 10월호 동작구소식 PDF 홍보담당관 2026-10-01 111",
+      "summary": "177 2026년 10월호 동작구소식 PDF 홍보담당관 2026-10-01 121",
       "audience": "",
       "fee": "",
       "location": "",
@@ -2042,6 +1962,33 @@
       ]
     },
     {
+      "id": "99d2268822bdc6b7",
+      "title": "열린행정>알림마당>행사/모집 - 도봉구립도서관 주간 행사 안내(2026년 10월 3주차)",
+      "district": "도봉구",
+      "district_id": "dobong",
+      "institution": "도봉구",
+      "category": "youth",
+      "category_label": "청소년",
+      "event_start": "2026-10-03",
+      "event_end": null,
+      "reservation_start": null,
+      "reservation_end": null,
+      "reservation_type": "신청",
+      "reservation_url": "https://www.dobong.go.kr/bbs.asp?bmode=D&pcode=12746913&code=10008770",
+      "source_url": "https://www.dobong.go.kr/bbs.asp?bmode=D&pcode=12746913&code=10008770",
+      "source_name": "도봉구 구정소식",
+      "summary": "본문바로가기 본문바로가기 이 누리집은 대한민국 공식 전자정부 누리집입니다. 도봉구청 도봉배움e 통합예약 문화관광 구의회 도봉구 열린구청장실 디비디비맵 보건소 스마트도시 로그인 Language English 中文 日本語 Tiếng Việt 화면크기 검…",
+      "audience": "정보",
+      "fee": "",
+      "location": "",
+      "published_at": "2026-10-11",
+      "first_come": false,
+      "tags": [
+        "신청",
+        "온라인신청"
+      ]
+    },
+    {
       "id": "038a625290c46f73",
       "title": "내편중구 X 에이프릴] 숲을 탐험하는 아이들 수강생 모집",
       "district": "중구",
@@ -2175,8 +2122,34 @@
       ]
     },
     {
-      "id": "371748119a3c6ec3",
-      "title": "교육의달] (고등, 대학생) 스피칙교육 '내 생각을 말로 만드는 힘' 모집",
+      "id": "0522a726a679a6f1",
+      "title": "제31회 강동선사문화축제 교통통제·우회운행 관련 안내",
+      "district": "강동구",
+      "district_id": "gangdong",
+      "institution": "강동구",
+      "category": "youth",
+      "category_label": "청소년",
+      "event_start": "2026-10-06",
+      "event_end": null,
+      "reservation_start": null,
+      "reservation_end": null,
+      "reservation_type": "",
+      "reservation_url": "https://www.gangdong.go.kr/web/newportal/bbs/b_068/157782?cp=1&pageSize=20&sortOrder=BA_REGDATE&sortDirection=DESC&bcId=b_068&baCategory1=U0072&baNotice=false&baCommSelec=false&baOpenDay=true&baUse=true",
+      "source_url": "https://www.gangdong.go.kr/web/newportal/bbs/b_068/157782?cp=1&pageSize=20&sortOrder=BA_REGDATE&sortDirection=DESC&bcId=b_068&baCategory1=U0072&baNotice=false&baCommSelec=false&baOpenDay=true&baUse=true",
+      "source_name": "강동구 구정소식",
+      "summary": "강동소식 상세보기 - 게시글 주소 QR코드 ,작성부서 ,전화번호 ,작성일 ,조회수 ,첨부파일 ,제목 ,본문 게시글 주소 QR코드 게시글 주소 : https://www.gangdong.go.kr/web/newportal/bbs/b_068/157782…",
+      "audience": "노선 : 강동 02 번",
+      "fee": "무료",
+      "location": "",
+      "published_at": "2026-10-06",
+      "first_come": false,
+      "tags": [
+        "무료"
+      ]
+    },
+    {
+      "id": "6e7e3c3ca0162677",
+      "title": "2026 '마포 스마트팜 체험관' 꿈꾸는 미래농부 교육 프로그램 참여자 모집",
       "district": "마포구",
       "district_id": "mapo",
       "institution": "마포구",
@@ -2187,10 +2160,10 @@
       "reservation_start": null,
       "reservation_end": null,
       "reservation_type": "신청",
-      "reservation_url": "https://www.mapo.go.kr/site/main/board/edulecture/278451?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&listType=list&bcId=edulecture&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
-      "source_url": "https://www.mapo.go.kr/site/main/board/edulecture/278451?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&listType=list&bcId=edulecture&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+      "reservation_url": "https://www.mapo.go.kr/site/main/board/edulecture/278452?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&listType=list&bcId=edulecture&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+      "source_url": "https://www.mapo.go.kr/site/main/board/edulecture/278452?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&listType=list&bcId=edulecture&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
       "source_name": "마포구 구정소식",
-      "summary": "[교육의달] (고등, 대학생) 스피칙교육 '내 생각을 말로 만드는 힘' 모집 교육청소년과 2026.10.07",
+      "summary": "1019 2026 '마포 스마트팜 체험관' 꿈꾸는 미래농부 교육 프로그램 참여자 모집 공원녹지과 2026.10.07",
       "audience": "",
       "fee": "",
       "location": "",
@@ -2243,7 +2216,7 @@
       "reservation_url": "https://www.gangseo.seoul.kr/gs040101/324466?srchCtgry=&srchStdg=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "source_url": "https://www.gangseo.seoul.kr/gs040101/324466?srchCtgry=&srchStdg=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "source_name": "강서구 구정소식",
-      "summary": "11536 [서울시 어울림플라자] 장애인 기자단 \"울림\" 모집 교육지원과 2026-10-07 185",
+      "summary": "11536 [서울시 어울림플라자] 장애인 기자단 \"울림\" 모집 교육지원과 2026-10-07 276",
       "audience": "",
       "fee": "",
       "location": "",
@@ -2282,8 +2255,8 @@
       ]
     },
     {
-      "id": "9169b708c565044a",
-      "title": "2026 영등포선유도원축제 <선유요가> 참가자 모집 NEW",
+      "id": "b6d87b0f39faa1e2",
+      "title": "2026 영등포선유도원축제 <선유요가> 참가자 모집",
       "district": "영등포구",
       "district_id": "yeongdeungpo",
       "institution": "영등포구",
@@ -2309,8 +2282,8 @@
       ]
     },
     {
-      "id": "b9d600a1d36133e1",
-      "title": "2026 영등포선유도원축제 가족 체험프로그램 <선유도 한 조각> 참여자 모집 NEW",
+      "id": "a7c3db00551d8296",
+      "title": "2026 영등포선유도원축제 가족 체험프로그램 <선유도 한 조각> 참여자 모집",
       "district": "영등포구",
       "district_id": "yeongdeungpo",
       "institution": "영등포구",
@@ -2335,8 +2308,8 @@
       ]
     },
     {
-      "id": "86ae2c8fb456cbbb",
-      "title": "2026 영등포선유도원축제 영등포 플리마켓 참여자 모집 NEW",
+      "id": "dc79bbae5267d4db",
+      "title": "2026 영등포선유도원축제 영등포 플리마켓 참여자 모집",
       "district": "영등포구",
       "district_id": "yeongdeungpo",
       "institution": "영등포구",
@@ -2387,32 +2360,6 @@
       ]
     },
     {
-      "id": "2481af8381bfbf33",
-      "title": "「 2026 영등포 평생학습축제 함.성.소.리. 」 개최 안내 NEW",
-      "district": "영등포구",
-      "district_id": "yeongdeungpo",
-      "institution": "영등포구",
-      "category": "culture",
-      "category_label": "문화",
-      "event_start": "2026-10-08",
-      "event_end": null,
-      "reservation_start": null,
-      "reservation_end": null,
-      "reservation_type": "신청",
-      "reservation_url": "https://www.ydp.go.kr/www/selectBbsNttView.do?bbsNo=40&nttNo=420294&&pageUnit=10&key=2848&pageIndex=1",
-      "source_url": "https://www.ydp.go.kr/www/selectBbsNttView.do?bbsNo=40&nttNo=420294&&pageUnit=10&key=2848&pageIndex=1",
-      "source_name": "영등포구 구정소식",
-      "summary": "작성일 2026.10.08 우리구소식 상세보기 - , 제목, 내용, 부서, 연락처, 파일, 작성일의 정보를 제공합니다. 「 2026 영등포 평생학습축제 함.성.소.리. 」 개최 안내 이미지 확대보기 2026 영등포 평생학습축제 ＇함.성.소.리.＇ (…",
-      "audience": "",
-      "fee": "없이 누구나 자유롭게 참여 가능합니다.",
-      "location": "당산근린공원(영등포구청 앞)",
-      "published_at": "2026-10-08",
-      "first_come": false,
-      "tags": [
-        "신청"
-      ]
-    },
-    {
       "id": "0e6ac8a6ba5ffe71",
       "title": "강동마을미디어지원센터] '스마트폰으로 시작하는 라이브 커머스: 기초부터 실전까지' 수강생 모집",
       "district": "강동구",
@@ -2455,7 +2402,7 @@
       "reservation_url": "https://www.gangseo.seoul.kr/gs040101/324496?srchCtgry=&srchStdg=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "source_url": "https://www.gangseo.seoul.kr/gs040101/324496?srchCtgry=&srchStdg=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "source_name": "강서구 구정소식",
-      "summary": "11542 강서별빛우주과학관 개관 3주년 기념 행사 [생일에 만나는 별자리와 우주이야기] 교육지원과 2026-10-08 124",
+      "summary": "11542 강서별빛우주과학관 개관 3주년 기념 행사 [생일에 만나는 별자리와 우주이야기] 교육지원과 2026-10-08 235",
       "audience": "",
       "fee": "",
       "location": "",
@@ -2479,7 +2426,7 @@
       "reservation_url": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=59&bcIdx=411781",
       "source_url": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=59&bcIdx=411781",
       "source_name": "서초구 구정소식",
-      "summary": "행사안내 상세정보 보기 글제목 [서리풀아트스튜디오] 2026 하반기 서리풀 아트랩 공개프로그램 '숨비소리, 해녀들의 노래' 담당부서 문화관광과 담당자이름 서초문화재단 담당자연락처 02-3471-9774 등록일 2026.10.08 조회수 81 글내용…",
+      "summary": "행사안내 상세정보 보기 글제목 [서리풀아트스튜디오] 2026 하반기 서리풀 아트랩 공개프로그램 '숨비소리, 해녀들의 노래' 담당부서 문화관광과 담당자이름 서초문화재단 담당자연락처 02-3471-9774 등록일 2026.10.08 조회수 128 글내용…",
       "audience": "",
       "fee": "",
       "location": "서리풀아트스튜디오 (서초구 남부순환로 2365 예술의전당 제1지하보도) - 관람료 : 무료 [신청링크] https://form.naver.com",
@@ -2506,7 +2453,7 @@
       "reservation_url": "https://www.gangseo.seoul.kr/gs040101/324516?srchCtgry=&srchStdg=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "source_url": "https://www.gangseo.seoul.kr/gs040101/324516?srchCtgry=&srchStdg=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "source_name": "강서구 구정소식",
-      "summary": "11543 서울 리[Re]테크 프로그램 수강생 모집(2026 강서구 재무상담, 경제교육 참여자 모집) 교육지원과 2026-10-08 89",
+      "summary": "11543 서울 리[Re]테크 프로그램 수강생 모집(2026 강서구 재무상담, 경제교육 참여자 모집) 교육지원과 2026-10-08 183",
       "audience": "",
       "fee": "",
       "location": "",
@@ -2544,8 +2491,8 @@
       ]
     },
     {
-      "id": "27fedccbcd7e8531",
-      "title": "영등포장애인복지관] 제11회 복지·문화축제 「휠더월드(Wheel The World)」 개최 안내 NEW",
+      "id": "fdac0cd7422440a2",
+      "title": "영등포장애인복지관] 제11회 복지·문화축제 「휠더월드(Wheel The World)」 개최 안내",
       "district": "영등포구",
       "district_id": "yeongdeungpo",
       "institution": "영등포구",
@@ -2623,6 +2570,84 @@
       ]
     },
     {
+      "id": "a1935f589b913e01",
+      "title": "넓은들미래교육센터",
+      "district": "양천구",
+      "district_id": "yangcheon",
+      "institution": "양천구",
+      "category": "family",
+      "category_label": "가족",
+      "event_start": "2026-10-10",
+      "event_end": null,
+      "reservation_start": null,
+      "reservation_end": null,
+      "reservation_type": "신청",
+      "reservation_url": "https://www.yangcheon.go.kr/fieldfuture/fieldfuture/main.do",
+      "source_url": "https://www.yangcheon.go.kr/fieldfuture/fieldfuture/main.do",
+      "source_name": "양천구 구정소식",
+      "summary": "본문바로가기 양천구청 열린구청장실 --> 보건소 문화재단 도서관 평생학습포털 스마트양천미래교육센터 넓은들미래교육센터 목동미래교육센터 양천교육지원센터 진로직업체험지원센터 공항소음대책종합지원센터 장애인권교육센터 생활안전체험교육관 건강힐링문화관 양천TV…",
+      "audience": "",
+      "fee": "",
+      "location": "",
+      "published_at": "2026-10-10",
+      "first_come": false,
+      "tags": [
+        "신청"
+      ]
+    },
+    {
+      "id": "afdd1b55128be9f4",
+      "title": "목동미래교육센터",
+      "district": "양천구",
+      "district_id": "yangcheon",
+      "institution": "양천구",
+      "category": "family",
+      "category_label": "가족",
+      "event_start": "2026-10-10",
+      "event_end": null,
+      "reservation_start": null,
+      "reservation_end": null,
+      "reservation_type": "선착순",
+      "reservation_url": "https://www.yangcheon.go.kr/mokdongfuture/mokdongfuture/main.do",
+      "source_url": "https://www.yangcheon.go.kr/mokdongfuture/mokdongfuture/main.do",
+      "source_name": "양천구 구정소식",
+      "summary": "본문바로가기 양천구청 열린구청장실 --> 보건소 문화재단 도서관 평생학습포털 스마트양천미래교육센터 넓은들미래교육센터 목동미래교육센터 양천교육지원센터 진로직업체험지원센터 공항소음대책종합지원센터 장애인권교육센터 생활안전체험교육관 건강힐링문화관 양천TV…",
+      "audience": "",
+      "fee": "",
+      "location": "",
+      "published_at": "2026-10-10",
+      "first_come": true,
+      "tags": [
+        "선착순"
+      ]
+    },
+    {
+      "id": "98fdedb2bff48db9",
+      "title": "자녀와 함께하는 <그림책 및 AI게임 만들기> 프로그램 수강생 모집 안내 NEW",
+      "district": "영등포구",
+      "district_id": "yeongdeungpo",
+      "institution": "영등포구",
+      "category": "education",
+      "category_label": "교육",
+      "event_start": "2026-10-10",
+      "event_end": null,
+      "reservation_start": null,
+      "reservation_end": null,
+      "reservation_type": "신청",
+      "reservation_url": "https://www.ydp.go.kr/www/selectBbsNttView.do?bbsNo=40&nttNo=420357&&pageUnit=10&key=2848&pageIndex=1",
+      "source_url": "https://www.ydp.go.kr/www/selectBbsNttView.do?bbsNo=40&nttNo=420357&&pageUnit=10&key=2848&pageIndex=1",
+      "source_name": "영등포구 구정소식",
+      "summary": "작성일 2026.10.10 우리구소식 상세보기 - , 제목, 내용, 부서, 연락처, 파일, 작성일의 정보를 제공합니다. 자녀와 함께하는 프로그램 수강생 모집 안내 YDP미래평생학습관에서는 자녀와 함께하는 프로그램 수강생을 모집하오니 많은 관심바랍니다…",
+      "audience": "초등2~4학년 자녀 및 학부모",
+      "fee": "1만원(감면대상자는 하단의 링크를 참조해주세요.)",
+      "location": "YDP미래평생학습관 4층 미래학습랩(영등포구 도신로4길 20)",
+      "published_at": "2026-10-10",
+      "first_come": false,
+      "tags": [
+        "신청"
+      ]
+    },
+    {
       "id": "f10c71f74927e049",
       "title": "고덕비즈밸리 입주기업 (주)그린스토어X 안신영 작가 전시회 소개",
       "district": "강동구",
@@ -2647,6 +2672,34 @@
       "tags": [
         "신청",
         "무료"
+      ]
+    },
+    {
+      "id": "f949cf01c8970c78",
+      "title": "노원천문우주과학관 별빛축제] 천체관측회 개최 및 '별빛초대석' 프로그램 안내",
+      "district": "노원구",
+      "district_id": "nowon",
+      "institution": "노원구",
+      "category": "culture",
+      "category_label": "문화",
+      "event_start": "2026-10-11",
+      "event_end": null,
+      "reservation_start": null,
+      "reservation_end": null,
+      "reservation_type": "신청",
+      "reservation_url": "https://www.nowon.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1001&q_bbscttSn=20261011132302155",
+      "source_url": "https://www.nowon.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1001&q_bbscttSn=20261011132302155",
+      "source_name": "노원구 구정소식",
+      "summary": "[노원천문우주과학관 별빛축제] 천체관측회 개최 및 '별빛초대석' 프로그램 안내 게시물 상세 정보를 제공하는 표이며 부서/팀, 전화번호, 등록일, 조회수, 첨부파일 정보 제공 부서/팀 녹색환경과 녹색환경지원팀 전화번호 02-2116-3218 등록일 2…",
+      "audience": "누구나",
+      "fee": "등 ) : 운영시간 내 자유참여 , 무료",
+      "location": "중계문화공원",
+      "published_at": "2026-10-11",
+      "first_come": false,
+      "tags": [
+        "신청",
+        "무료",
+        "온라인신청"
       ]
     },
     {
@@ -2812,8 +2865,8 @@
       ]
     },
     {
-      "id": "9df65cb346ab25bd",
-      "title": "2026 금천구 반려동물 축제 개최(10/18, 일) 새글",
+      "id": "48439c65472f8460",
+      "title": "2026 금천구 반려동물 축제 개최(10/18, 일)",
       "district": "금천구",
       "district_id": "geumcheon",
       "institution": "금천구",
@@ -2823,17 +2876,19 @@
       "event_end": null,
       "reservation_start": null,
       "reservation_end": null,
-      "reservation_type": "",
+      "reservation_type": "선착순",
       "reservation_url": "https://www.geumcheon.go.kr/portal/selectBbsNttView.do?key=293&id=&bbsNo=4&nttNo=271297&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode=&searchDeptCode=",
       "source_url": "https://www.geumcheon.go.kr/portal/selectBbsNttView.do?key=293&id=&bbsNo=4&nttNo=271297&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=1&integrDeptCode=&searchDeptCode=",
       "source_name": "금천구 구정소식",
-      "summary": "2026 금천구 반려동물 축제 개최(10/18, 일) 상세보기 - 제목,조회수,담당부서,연락처,작성일,내용,파일 정보 제공 제목 2026 금천구 반려동물 축제 개최(10/18, 일) 조회수 82 담당부서 지역경제과 연락처 02-2627-2592 작성…",
+      "summary": "2026 금천구 반려동물 축제 개최(10/18, 일) 상세보기 - 제목,조회수,담당부서,연락처,작성일,내용,파일 정보 제공 제목 2026 금천구 반려동물 축제 개최(10/18, 일) 조회수 259 담당부서 지역경제과 연락처 02-2627-2592 작…",
       "audience": "",
       "fee": "",
-      "location": "금천구 반려견 놀이터 ( 시흥동 784-21)( 시흥대교 하부 , 안양천변 유휴공간 )",
+      "location": "금천구 반려견 놀이터 ( 시흥동 784-21)",
       "published_at": "2026-10-08",
-      "first_come": false,
-      "tags": []
+      "first_come": true,
+      "tags": [
+        "선착순"
+      ]
     },
     {
       "id": "cdc30530ed5c1463",
@@ -2914,33 +2969,6 @@
       "first_come": true,
       "tags": [
         "선착순"
-      ]
-    },
-    {
-      "id": "8d27e0979cc8083e",
-      "title": "집합교육] 2026년 11월 구민 정보화교육 신청(10.27.~10.28.)",
-      "district": "성북구",
-      "district_id": "seongbuk",
-      "institution": "성북구",
-      "category": "youth",
-      "category_label": "청소년",
-      "event_start": "2026-10-27",
-      "event_end": null,
-      "reservation_start": null,
-      "reservation_end": null,
-      "reservation_type": "신청",
-      "reservation_url": "https://www.sb.go.kr/www/selectBbsNttView.do?key=6350&bbsNo=41&nttNo=9584664&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&startDate=&endDate=&pageIndex=1",
-      "source_url": "https://www.sb.go.kr/www/selectBbsNttView.do?key=6350&bbsNo=41&nttNo=9584664&searchCtgry=&searchCnd=all&searchKrwd=&integrDeptCode=&startDate=&endDate=&pageIndex=1",
-      "source_name": "성북구 구정소식",
-      "summary": "구정소식_새소식 상세보기 - 제목, 주관부서, 등록일, 조회수, 전화번호, 첨부파일, 구분, 요약, 분야, 내용 정보 제공 [집합교육] 2026년 11월 구민 정보화교육 신청(10.27.~10.28.) 작성일 : 2026-10-08 --> 작성일 :…",
-      "audience": "",
-      "fee": "",
-      "location": "",
-      "published_at": "2026-10-08",
-      "first_come": false,
-      "tags": [
-        "신청",
-        "온라인신청"
       ]
     },
     {
@@ -4698,7 +4726,7 @@
       "tags": []
     },
     {
-      "id": "a46e77eca873cc54",
+      "id": "50e7a548f89c672d",
       "title": "노원구 소식지 노원구소식지",
       "district": "노원구",
       "district_id": "nowon",
@@ -4710,8 +4738,8 @@
       "reservation_start": null,
       "reservation_end": null,
       "reservation_type": "",
-      "reservation_url": "https://ebook.nowon.kr/home/list.php?dummy=1791586898&code=1110",
-      "source_url": "https://ebook.nowon.kr/home/list.php?dummy=1791586898&code=1110",
+      "reservation_url": "https://ebook.nowon.kr/home/list.php?dummy=1791759708&code=1110",
+      "source_url": "https://ebook.nowon.kr/home/list.php?dummy=1791759708&code=1110",
       "source_name": "노원구 소식지",
       "summary": "정기간행물 > 노원구소식지",
       "audience": "",
@@ -7502,7 +7530,7 @@
       "audience": "",
       "fee": "",
       "location": "",
-      "published_at": "2023-01-01",
+      "published_at": "2026-09-26",
       "first_come": false,
       "tags": []
     },
@@ -7869,7 +7897,7 @@
       "tags": []
     },
     {
-      "id": "6447bda2281512da",
+      "id": "fc7854993c0140f7",
       "title": "중랑구 소식지 구정소식지",
       "district": "중랑구",
       "district_id": "jungnang",
@@ -7881,8 +7909,8 @@
       "reservation_start": null,
       "reservation_end": null,
       "reservation_type": "",
-      "reservation_url": "https://ecatalog.jungnang.go.kr/home/list.php?dummy=1791586859&code=1110",
-      "source_url": "https://ecatalog.jungnang.go.kr/home/list.php?dummy=1791586859&code=1110",
+      "reservation_url": "https://ecatalog.jungnang.go.kr/home/list.php?dummy=1791759666&code=1110",
+      "source_url": "https://ecatalog.jungnang.go.kr/home/list.php?dummy=1791759666&code=1110",
       "source_name": "중랑구 소식지",
       "summary": "정기간행물 구정소식지",
       "audience": "",
